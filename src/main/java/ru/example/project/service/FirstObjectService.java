@@ -1,10 +1,10 @@
-package ru.amin.project.service;
+package ru.example.project.service;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import ru.amin.project.dto.FirstObject;
-import ru.amin.project.repository.FirstObjectRepo;
+import ru.example.project.dto.FirstObject;
+import ru.example.project.repository.FirstObjectRepo;
 
 import java.util.List;
 import java.util.Objects;

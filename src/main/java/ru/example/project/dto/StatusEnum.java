@@ -1,4 +1,4 @@
-package ru.amin.project.dto;
+package ru.example.project.dto;
 
 public enum StatusEnum {
 

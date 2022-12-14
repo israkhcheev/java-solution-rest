@@ -1,4 +1,4 @@
-package ru.amin.project;
+package ru.example.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

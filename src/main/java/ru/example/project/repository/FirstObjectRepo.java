@@ -1,8 +1,8 @@
-package ru.amin.project.repository;
+package ru.example.project.repository;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
-import ru.amin.project.dto.FirstObject;
+import ru.example.project.dto.FirstObject;
 
 import java.util.List;
 
