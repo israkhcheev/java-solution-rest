@@ -8,11 +8,11 @@
         <version>3.0.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ru.amin</groupId>
-    <artifactId>amin-project</artifactId>
+    <groupId>ru.example</groupId>
+    <artifactId>example-project</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>amin-project</name>
-    <description>amin-project</description>
+    <name>example-project</name>
+    <description>example-project</description>
     <properties>
         <java.version>17</java.version>
     </properties>

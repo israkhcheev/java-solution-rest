@@ -1,17 +1,16 @@
 package ru.amin.project.dto;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 import lombok.Data;
 
 @Data
 @Entity
-public class Request {
+public class FirstObject {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     private String title;
-    private String message;
     private StatusEnum status;
 
 }
