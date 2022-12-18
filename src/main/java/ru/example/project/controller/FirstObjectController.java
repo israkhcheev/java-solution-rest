@@ -14,6 +14,7 @@ import java.util.List;
 @Controller
 // Установка основного пути
 @RequestMapping("first/object")
+@CrossOrigin
 public class FirstObjectController {
 
     private final FirstObjectService firstObjectService;
